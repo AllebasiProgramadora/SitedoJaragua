@@ -1,0 +1,34 @@
+.Fundo-lojas{
+    background-color: #256B2C;
+    border: solid #677424 2px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    text-align: center;
+    margin-left: 100px;
+}
+
+.Título{
+    margin-left: 150px;
+    margin-top: -140px;
+}
+
+.Título h2{
+    color: #F0ECE1;
+}
+
+.Lanchonete h2, .Outros h2{
+    margin-left: -15px;
+}
+
+.Mercado, .Lanchonete, .Outros, .Padaria{
+    margin-bottom: 30px;
+    display: inline-block;
+}
+
+ul{
+    display: inline-block;
+    margin-left: 350px;
+    margin-top: -60px;
+    margin-bottom: 100px;
+}

@@ -1,0 +1,39 @@
+#Texto-história, #Título-história{
+    text-align: justify;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+
+#Título-história{
+    text-align: center;
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-top: -65px;
+}
+
+#Fundo-história{
+    background-color: #5A3E29;
+    height: 50px ;
+    width: 1169px;
+    margin-left: 90px;
+    border-radius: 10px;
+    border-style: solid;
+}
+
+
+#Pico > img, #Casarão > img, #Estação > img {
+    margin-left: 20px;
+    height: 190px;
+    float: right;
+    border:#256B2C solid 3px;
+    border-radius: 10%;
+}
+
+#Afonso > img, #Taipas > img{
+    margin-right: 20px;
+    height: 200px;
+    float: left;
+    border:#256B2C solid 3px;
+    border-radius: 10%;
+}

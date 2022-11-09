@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+/*
+Paleta de cores
+#256B2C
+#677424
+#BBC191
+#F0ECE1
+#8A5D3C
+#5A3E29*/
+
+h1, h2, h3, h4, h5 ,h6, #Forms, form{
+    font-family: 'Fira Sans', sans-serif;
+}
+
+h2{
+    color: #677424;
+}
+
+p, li{
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    font-weight: bold;
+}
+
+
+footer{
+    color: #F0ECE1;
+}
+
+footer a{
+    color: #F0ECE1;
+}
+
+#ImgHeader{
+    width: 100%;
+    height: 100px;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+#Título{
+    position: absolute;
+    text-align: center;
+    margin-top: -150px;
+    margin-left: 615px;
+    font-size: x-large;
+    display: inline-block;
+}
+
+#Subtítulo{
+    position: absolute;
+    text-align: center;
+    font-size: larger;
+    margin-top: -110px;
+    margin-left: 800px;
+    display: inline-block;
+}
+
+.Menu{    
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    display: inline-block;
+    margin-top: -6px;
+}
+
+.Menu a{
+    color: #F0ECE1;
+}
+
+
+#BordaMenu{
+    width: 100%;
+    height: 60px;
+    background-color: #256B2C;
+    border-radius: 13px;
+    margin-top: -15px;
+}
+
+
+.Introdução{
+    text-align: justify;
+    margin-left: 55px;
+    margin-right: 750px;
+    margin-top: 40px;
+    padding: 20px;
+    width: 500px;
+    height: 270px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.Introdução h1{
+    color: #5A3E29;
+}
+
+.Overlay:hover{
+    background-color: #677424;
+    opacity: 0.6;
+}
+
+#PI{
+    left: 130px;
+}
+
+#L{
+    left: 400px;
+}
+
+
+#C{
+    left: 600px;
+}
+
+#E{
+    left: 800px;
+}
+
+#D{
+    left: 1000px;
+}
+
+#F{
+    left: 1200px;
+}
+
+.Rodapé{
+    background-color: #5A3E29;
+    width: 100%;
+    height: 300px;
+    display: inline-block;
+    position: relative;
+}
+
+.AC{
+    text-align: center;
+    margin-top: 10px;
+}
+
+#ComRef{
+    margin-top: 14px;
+}
+
+.Logos{
+    text-align: center;
+    
+}
+
+
+#Germinare, #Picpay{
+    position: absolute;
+    top: 0px;
+    margin-left: 1036px;
+}
+
+#Germinare{
+    margin-top: 100px;
+    margin-left: 1100px;
+}
+
+#Picpay{
+    margin-top: 20px;
+}
+
+.AP{
+    text-align: justify;
+    margin-right: 1000px;
+    margin-top: -60px;
+    margin-left: 10px;
+}
+
+#Logo{
+    display: inline-block;
+    margin-top: -300px;
+    margin-left: 700px;
+}
+

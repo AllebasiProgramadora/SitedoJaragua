@@ -1,0 +1,19 @@
+.Textos{
+    margin-left: 90px;
+}
+
+.Textos img{
+    width: 300px;
+    border: #677424 solid 3px;
+    border-radius: 10%;
+    float: right;
+    margin-right: 30px;
+}
+
+#C3{
+    margin-top: 200px;
+}
+#C3 img{
+    height: 200px;
+}
+

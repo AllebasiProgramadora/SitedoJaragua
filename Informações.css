@@ -1,0 +1,29 @@
+#Mapa{
+    margin-left: 700px;
+    margin-right: 53px;
+    margin-top: -900px;
+    border: solid #677424 5px;
+    width: fit-content; 
+    
+}
+
+#Demografia{
+    height: 700px;
+    display: inline-block;
+}
+
+table{
+    margin-top: 30px;
+    margin-left: 800px;
+    background-color: #BBC191;
+}
+
+ol{
+    display: inline-block;
+}
+
+.Lista{
+    display: inline-block;
+    margin-left: 300px;
+    margin-top: -425px;
+}

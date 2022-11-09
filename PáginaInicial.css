@@ -1,0 +1,100 @@
+.Introdução{
+    text-align: justify;
+    margin-left: 55px;
+    margin-right: 750px;
+    margin-top: 40px;
+    padding: 20px;
+    width: 500px;
+    height: 270px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.Introdução h1{
+    color: #5A3E29;
+}
+
+#Vídeo{
+    margin-left: 700px;
+    margin-top: -600px;
+    margin-right: 53px;
+    margin-bottom: 30px;
+    display: inline-block;
+    border: solid 10px #677424;
+    border-radius: 5px;
+    
+
+}
+
+.Caixa-texto a{
+    color: #BBC191;
+}
+
+    
+#História p, #Informações p, #Conhecido p{
+    color: #F0ECE1;
+}
+
+
+.container{
+    display: inline-block;
+    position: relative;
+    width: 200px;
+}
+  
+.image{
+    width: 210px;
+    height: 210px;
+    border-radius: 10%;
+    border-style: dotted;
+}
+  
+.overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 210px;
+    height: 210px;
+    opacity: 0;
+    background-color: #8A5D3C;
+    border-radius: 10%;
+    border-style: dotted;
+    text-align: justify;
+}
+
+.text h3{
+    padding-top: 20px;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #F0ECE1;
+}
+
+.text p{
+    text-align: center;
+}
+
+.overlay:hover{
+    opacity: 1;
+  }
+
+
+  #cont1{
+    margin-left: 200px;
+  }
+
+  #cont2{
+    margin-left: 150px;
+  }
+
+  #cont3{
+    margin-left: 150px;
+  }
+
+
+
+
+
+
+
+

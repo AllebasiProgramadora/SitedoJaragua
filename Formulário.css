@@ -1,0 +1,42 @@
+input{
+    height: 30px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+form{
+    margin-left: 120px;
+}
+
+.Formulário{
+    background-color: #BBC191;
+    border-radius: 10px;
+    margin-top: -50px;
+    width: 1000px;
+    height: 600x;
+    margin-left: 120px;
+    padding: 50px;
+}
+
+.Nascimento{
+    margin-left: 400px;
+}
+
+#fnasc{
+    margin-left: 80px;
+}
+
+
+#ftel, #fnasc{
+    display: inline-block;
+}
+
+button{
+    background-color: green;
+    color: white;
+    margin-left: 300px;
+    margin-top: -0px;
+    width: 150px;
+    height: 40px;
+    font-weight: bold;
+}

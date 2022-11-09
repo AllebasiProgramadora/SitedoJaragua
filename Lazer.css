@@ -1,0 +1,29 @@
+.Texto img{
+    width: 300px;
+    border-radius: 10%;
+    border: solid 3px #256B2C;
+    display: inline-block;
+}
+
+.Texto{
+    width: 900px;
+    display: inline-block;
+    margin-left: 100px;
+}
+
+#Shopping > img, #Reserva > img, #CEU >img{
+    float: right;
+    margin-right: -200px;
+    margin-left: 10px;
+}
+
+#Estadual > img, #Pinheirinho > img{
+    float: left;
+    margin-right: 30px;
+}
+
+#Estadual p, #Pinheirinho p, #Estadual h2, #Pinheirinho h2{
+    margin-right: -200px;
+}
+
+

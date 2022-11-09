@@ -1,0 +1,31 @@
+.Textos img{
+    width: 200px;
+    height: 150px;
+}
+
+#Prígule img, #ETEC img, #Art img{
+    float: right;
+    margin-right: 100px;
+}
+
+#Prígule img{
+    width: 300px;
+}
+
+#Prígule h2, #Prígule p, #ETEC h2, #ETEC p, #Art h2, #Art p{
+    width: 900px;
+    margin-left: 100px;
+}
+
+#Pêra img, #FISK img{
+    float: left;
+    margin-left: 100px;
+}
+
+#FISK img{
+    margin-left: 10px;
+}
+#Pêra h2, #Pêra p, #FISK h2, #FISK{
+    width: 1000px;
+    margin-left: 100px;
+}
